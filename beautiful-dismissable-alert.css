@@ -1,0 +1,15 @@
+.beautiful.alert {
+  border-width: 1px;
+  background-image: none;
+  border-color: transparent;
+  border-radius: 0px;
+  box-shadow: none;
+}
+
+.alert.alert-warning.beautiful {
+  background-color: white;
+  border-color: white;
+  color: rgb(239, 89, 58);
+  text-align: center;
+}
+
